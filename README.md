@@ -6,7 +6,6 @@ Progetto didattico sviluppato in Assembly RISC-V di un sistema di cifratura/deci
 
 ## Messaggi in Codice – Cifrari in Assembly RISC-V
 
----
 
 ### 📌 Descrizione
 
