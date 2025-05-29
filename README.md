@@ -1,6 +1,6 @@
 # Cifrari-in-Assembly-RISC-V
 
-Progetto didattico sviluppato in Assembly RISC-V di un sistema di cifratura/decifratura per messaggi testuali tramite cinque diverse modalità di codifica.
+Progetto didattico per il Corso di Architetture degli Elaboratori, sviluppato in Assembly RISC-V, di un sistema di cifratura/decifratura per messaggi testuali tramite cinque diverse modalità di codifica.
 
 ---
 
